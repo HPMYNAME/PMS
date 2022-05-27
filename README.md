@@ -1,2 +1,2 @@
-# PMS
+# PMS--Pharmacy managemnt system
 PROJECT
